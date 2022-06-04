@@ -1,12 +1,8 @@
-Enemy = Object:extend()
+Enemy = Actor:extend()
 
 function Enemy:new()
+    Enemy.super.new(self, "img/snake.png", 325, 450, 100)
     self.image = love.graphics.newImage("img/snake.png")
-    self.x = 325
-    self.y = 450
-    self.speed = 100
-    self.width = self.image:getWidth()
-    self.height = self.image:getHeight()
 end
 
 function Enemy:update(dt)

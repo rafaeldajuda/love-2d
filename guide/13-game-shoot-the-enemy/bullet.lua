@@ -1,13 +1,8 @@
-Bullet = Object:extend()
+Bullet = Actor:extend()
 
 --We pass the x and y of the player.
 function Bullet:new(playerX, playerY)
-    self.image = love.graphics.newImage("img/bullet.png")
-    self.x = playerX
-    self.y = playerY
-    self.speed = 700
-    self.width = self.image:getWidth()
-    self.height = self.image:getHeight()
+    Bullet.super.new(self, "img/bullet.png", playerX, playerY, 700)
 end
 
 function Bullet:update(dt)

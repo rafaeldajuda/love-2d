@@ -1,12 +1,7 @@
-Player = Object:extend()
+Player = Actor:extend()
 
 function Player:new()
-    self.image = love.graphics.newImage("img/panda.png")
-    self.x = 300
-    self.y = 20
-    self.speed = 300
-    self.width = self.image:getWidth()
-    self.height = self.image:getHeight()
+    Player.super.new(self, "img/panda.png", 300, 20, 300)
 end
 
 function Player:update(dt)

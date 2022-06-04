@@ -1,5 +1,6 @@
 function love.load()
     Object = require "libs.classic"
+    require "actor"
     require "player"
     require "enemy"
     require "bullet"
