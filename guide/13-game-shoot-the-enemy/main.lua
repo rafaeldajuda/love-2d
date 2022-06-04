@@ -28,7 +28,6 @@ function love.update(dt)
 end
 
 function love.draw()
-
     love.graphics.print("spacebar to shoot", 10, 10)
     player:draw()
     enemy:draw()

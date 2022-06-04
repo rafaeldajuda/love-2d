@@ -6,6 +6,7 @@ function Player:new()
     self.y = 20
     self.speed = 300
     self.width = self.image:getWidth()
+    self.height = self.image:getHeight()
 end
 
 function Player:update(dt)
@@ -38,6 +39,8 @@ function Player:keyPressed(key)
     --If the spacebar is pressed
     if key == "space" then
         --Put a new instance of Bullet inside listOfBullets.
-        table.insert(listOfBullets, Bullet(self.x, self.y))
+        local player_x_c = self.x + self.width / 2
+        local player_y_c = self.y + (self.width / 4 * 3)
+        table.insert(listOfBullets, Bullet(player_x_c , player_y_c))
     end
 end

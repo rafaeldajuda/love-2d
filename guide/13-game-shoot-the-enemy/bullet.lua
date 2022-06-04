@@ -47,7 +47,7 @@ function Bullet:checkCollision(obj)
         else
             obj.speed = obj.speed - 50
         end
-        
+
     end
 
 end
