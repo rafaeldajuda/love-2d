@@ -1,10 +1,11 @@
-function createTileMap(mode, x, y, width, height)
+function createTileMap(mode, x, y, width, height, type)
     local tile = {
         mode = mode,
         x = x,
         y = y,
         width = width,
-        height = height
+        height = height,
+        type = type
     }
     return tile
 end
@@ -17,7 +18,7 @@ function createMap(width, height)
         local line = i * width
         for j=0, 4, 1 do 
             local col = j * width
-            table.insert(listOfTilesX, createTileMap("line", line, col, width, height))
+            table.insert(listOfTilesX, createTileMap("line", line, col, width, height, "tile"))
         end
         table.insert(listOfTiles, listOfTilesX)
     end

@@ -1,0 +1,9446 @@
+novo x	480
+novo y	480
+food_x_map 	5
+food_y_map 	5
+time		0.00038485099999996
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.00304763
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.006332059
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.0076036389999999
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.008862148
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.010153058
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.011555511
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.027100992
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.043735807
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.060173031
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.077832558
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.094565217
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.111032326
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.127330799
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.143782354
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.160418391
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.177121208
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.194481848
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.210995152
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.227709737
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.244360014
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.260826416
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.277219021
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.29406452
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.31065634
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.327241182
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.344334255
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.360681357
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.377829244
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.394122027
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.410803565
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.4304321
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.444234284
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.460742689
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.4775736
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.494121552
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.510789975
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.527585473
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.5440578
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.560898584
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.577581335
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.594149832
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.610879365
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.627455628
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.644429971
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.661060721
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.677405307
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.694123116
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.710491298
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.727098898
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.743776044
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.760558973
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.777131959
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.793789744
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.81044149
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.827343407
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.844033698
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.860644975
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.877569095
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.894211869
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.910624444
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.927504157
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.943959195
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.9605935
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.977313977
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.99384976
+actor x:		0
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		1.010620571
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016667341
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033278037
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.049878139
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066661326
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.08329738
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.100065898
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.116815895
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133628732
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.150245201
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.167103497
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.183585391
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.200249417
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216960167
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.233626544
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.250217567
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.267016098
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.283287854
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.299886904
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.316527614
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.33324953
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.349867436
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.366538433
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.383247187
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.399941599
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416585117
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.433247453
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.44990991
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.466593689
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.483297806
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.499864255
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.516559937
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.533216266
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.549838337
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.566506934
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.583493134
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.599818941
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616527994
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.633834266
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.649836019
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666642726
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683319307
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.699773977
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.716472011
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733176764
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.749825634
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766593501
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783348188
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.799753645
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816346576
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833102543
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.849748562
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866420095
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883154174
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.899815908
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.916399389
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.933052513
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.949750605
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966440187
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.983033774
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.99975877
+actor x:		120
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		1.016424312
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016642972
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033299378
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.049979689
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066696563
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.083264817
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.099981684
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.11670622
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133215601
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.149857884
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.166579758
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.183255992
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.199913368
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216657227
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.233479375
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.249388915
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.266064236
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.28253501
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.29926894
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.3159988
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.332639027
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.349386066
+actor x:		240
+actor y:		0
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.367142703
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.382741254
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.399706524
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416462377
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.433188895
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.449831933
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.466518724
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.483188841
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.499807409
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.516604488
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.533197716
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.549854949
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.56648494
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.583606314
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.59980665
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.61647259
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.633129515
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.649821513
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666575349
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683192925
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.700099939
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.716468257
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733125746
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.749793235
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766520188
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783329017
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.799778671
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816428494
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833186154
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.84975534
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866760388
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883205568
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.899802508
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.91642625
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.932971174
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.949689792
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966396196
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.982998876
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.999693795
+actor x:		240
+actor y:		0
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		1.016359764
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016557628
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033320806
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.049945318
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066675545
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.083330726
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.09993709
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.116548842
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133316111
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.150001982
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.166658403
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.18326313
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.199964494
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216588973
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.233184823
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.250011781
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.266536179
+actor x:		240
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.286112225
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.300122837
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.316621635
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.333336048
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.34987962
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.366606524
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.383254491
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.39987527
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416643205
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.433277623
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.449866218
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.466555641
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.483188982
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.499856205
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.516574057
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.533145373
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.549896401
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.566541045
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.583127554
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.599852727
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616502478
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.633067948
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.649871408
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666511017
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683197744
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.699921327
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.716485039
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733069001
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.750141669
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766849571
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783504731
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.800099362
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816795487
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833467354
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.850228558
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866658258
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883449698
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.900029195
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.916644868
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.933054541
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.949741768
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966364264
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.98314853
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.99997473
+actor x:		240
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		1.016448453
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016588705
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033367016000001
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.050030837
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066829898
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.083484833
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.099965979
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.116664919
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133215995
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.14996718
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.166784214
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.183260976
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.199864864
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216615724
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.233250515
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.249892613
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.266584136
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.283274283
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.300270314
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.31658134
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.333223571
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.349906477
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.366576365
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.383179415
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.399894836
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416553427
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.433169122
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.449840077
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.466494754
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.483142073
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.499797197
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.516541818
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.533091193
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.549873036
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.566870133
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.583494145
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.600120614
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616975914
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.633461207
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.650377366
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666948262
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683479903
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.70008575
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.716895477
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733456344
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.749750705
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766450676
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783055659
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.79969144
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816412204
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833085196
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.849723259
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866502275
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883029164
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.899707021
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.916404445
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.933005376
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.949730221
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966404205
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.983137864
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.999910868
+actor x:		360
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		1.015930225
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016688687
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033341232000001
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.050465921
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.067103099000001
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.083879509
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.100460923
+actor x:		480
+actor y:		120
+actor direction:	right
+food x:		480
+food y:		480
+/-------------------------/
+time		0.120880908
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133910186
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.150497737
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.167013214
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.183757348
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.200392365
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.21713198
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.233703511
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.250434687
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.267052161
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.283703981
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.300395277
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.317066073
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.333657021
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.350379652
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.367018683
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.384185773
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.400717162
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.417336685
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.43415737
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.450681141
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.467286209
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.484055512
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.500694477
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.517363741
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.534149326
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.550652216
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.567000956
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.583654004
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.600247515
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616849879
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.63379528
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.650236395
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666939729
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683619109
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.700211335
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.717073956
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733590339
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.750244235
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.767013702
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783225976
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.7997944
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816671502
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833312449
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.850260601
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866873709
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883568572
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.900221305
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.91690423
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.933465241
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.950262709
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966800695
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.983472903
+actor x:		480
+actor y:		120
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		1.000175924
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016769076
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033367635999999
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.050083882
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066694268
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.083462390999999
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.100049868
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.116764272
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133400197
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.149975655
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.166593094
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.183289953
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.19994968
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216534309
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.23332169
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.250016893
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.266501916
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.283208948
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.299933507
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.316525413
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.333269623
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.349980835
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.36657407
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.383370422
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.399961889
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416183183
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.432706631
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.449374865
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.465895566
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.482742037
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.49936535
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.515898782
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.533287882
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.550089313
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.566601491
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.582959543
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.599588343
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616121015
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.632642168
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.650031801
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666461961
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.683138096
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.699816409
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.716530286
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733115591
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.74985159
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766406606
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783182162
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.799783472
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816477381
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833163848
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.849842304
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866420486
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883074418
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.900143279
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.917285252
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.933477481
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.950187511
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.96685464
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.983426827
+actor x:		480
+actor y:		240
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		1.000207224
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.016758699
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.033515713
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.049894839
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.066265696
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.082976073
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.099602866000001
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.116256944
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.133233311
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.149595062
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.166258375
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.182800481
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.19955637
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.216241276
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.232773765
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.249547527
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.266363673
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.282756388
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.299476355
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.316147999
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.332774961
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.349466834
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.366152209
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.382862095
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.399487369
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.416132637
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.432774453
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.449448948
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.466138537
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.48285306
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.499421246
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.516074279
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.532752249
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.549377816
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.566097823
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.582726993
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.599378087
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.616067854
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.632978822
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.649418649
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.666134126
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.682678834
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.699388503
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.715975806
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.733168957
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.749862391
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.766406803
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.783059578
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.799823697
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.816398478
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.833061211
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.849740304
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.866324596
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.883045259
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.899336902
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.916047631
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.932572203
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.949380931
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.966102602
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.982611954
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		0.999748166
+actor x:		480
+actor y:		360
+actor direction:	down
+food x:		480
+food y:		480
+/-------------------------/
+time		1.01599545
+novo x	360
+novo y	480
+food_x_map 	4
+food_y_map 	5
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.016569108000001
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.033313782
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.050072112000001
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.066610686000001
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.083352572000001
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.099969421000001
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.116582907
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.133182287
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.149896795
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.166728314
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.183336719
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.200027875
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.216700424
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.23333643
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.249845437
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.266577819
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.283438663
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.299414098
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.316095456
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.33277137
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.349478795
+actor x:		480
+actor y:		480
+actor direction:	down
+food x:		360
+food y:		480
+/-------------------------/
+time		0.369713867
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.383319414
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.39982455
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.416485189
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.433106004
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.449895628
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.466508591
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.483167707
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.499897545
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.516514662
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.533211235
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.549862189
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.566462877
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.583163614
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.599801178
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.616369977
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.633137461
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.649797688
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.666464862
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.683055424
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.699794828
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.716380197
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.733025132
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.749907194
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.766334224
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.783201978
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.7997073
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.816421339
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.833118352
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.84980303
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.866439451
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.882986801
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.899630248
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.916335205
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.933042905
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.949733174
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.966595061
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		0.983061393
+actor x:		480
+actor y:		480
+actor direction:	left
+food x:		360
+food y:		480
+/-------------------------/
+time		1.00006198
+novo x	0
+novo y	360
+food_x_map 	1
+food_y_map 	4
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.016284983
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.032985096000001
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.049775578
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.066356256000001
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.083094467
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.099760039
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.116435631
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.133000201
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.149683835
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.166472317
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.182904567
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.199613886
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.216245272
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.232880995
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.249848597
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.266235134
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.282885658
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.299535378
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.316217888
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.332856452
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.349687603
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.366346169
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.382772887
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.399561213
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.416271496
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.43286473
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.449509004
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.466249052
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.482763985
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.499537733
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.515949777
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.532237922
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.549109312
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.565780333
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.582848254
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.599481653
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.616180901
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.632662641
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.649484339
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.666100823
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.682717275
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.699398848
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.716158237
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.732835238
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.749431178
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.766069388
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.782710127
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.799413203
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.816102819
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.832797407
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.849449594
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.866144757
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.882747038
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.899401294
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.916004353
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.93267493
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.949428991
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.966080676
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.982865778
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.999326537
+actor x:		360
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		1.015979347
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.016745835
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.033459021000001
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.050051299
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.066675438000001
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.083343211000001
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.100075194
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.116642944
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.133404512
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.149994548
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.166616638
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.183329573
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.199978557
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.216658155
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.233289575
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.249989303
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.266574072
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.283309166
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.300059301
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.316582938
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.333347869
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.350002789
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.366912553
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.383208498
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.400258807
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.416796739
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.432864144
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.449546148
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.466555301
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.483270828
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.499846487
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.516598226
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.533473873
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.549945954
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.566651348
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.583228171
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.600014428
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.616101936
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.632707347
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.649454488
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.66594867
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.682616062
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.699454442
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.715977546
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.732507009
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.749443986
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.766253856
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.782789999
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.799790974
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.816466888
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.833256311
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.849848411
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.866482292
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.883180817
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.899851489
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.916410555
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.933136371
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.949823878
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.966438801
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.98316694
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.999818812
+actor x:		240
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		1.016413854
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.016765879000001
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.033454315
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.049959037000001
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.06689351
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.083534116000001
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.099937829
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.116657153
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.133333755
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.149898661
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.166584453
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.183291694
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.199947399
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.216632216
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.23331904
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.249890236
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.266634322
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.283298161
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.300163034
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.316716453
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.333217776
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.349901183
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.366651154
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.383309793
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.399902888
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.416648225
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.433439141
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.449919796
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.466538774
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.483221956
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.499909434
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.516587568
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.533339626
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.549892572
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.566587347
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.583231259
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.599898931
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.616588934
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.633323857
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.649966411
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.666554589
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.683175592
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.699963884
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.716496115
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.733205499
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.749785598
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.766437763
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.783134025
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.799894931
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.81650083
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.833249234
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.849885294
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.866471688
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.883175566
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.899896494
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.916601342
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.933209324
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.94972495
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.96644942
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.983387171
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.999680826
+actor x:		120
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		1.016467182
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.016673869
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.033309835999999
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.049953761999999
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.066641316999998
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.083321829999999
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.099921672999999
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.116637035
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.13328233
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.149935761
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.166572838
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.183462223
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.200040934
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.216719354
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.233343212
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.249963123
+actor x:		0
+actor y:		480
+actor direction:	left
+food x:		0
+food y:		360
+/-------------------------/
+time		0.269531982
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.283364493
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.300042245
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.31657744
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.333210477
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.349862348
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.366484269
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.38315627
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.400031928
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.416552885
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.433134958
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.449889351
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.466607551
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.483296184
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.500000761
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.516640315
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.533201168
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.549989323
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.566636323
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.583113345
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.599713341
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.616574705
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.633249106
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.6497942
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.666490129
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.683134862
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.699770291
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.716530989
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.733193569
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.749807957
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.766579964
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.78319451
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.799734826
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.816495542
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.833210842
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.849789501
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.866447177
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.883126107
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.899746917
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.916689154
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.933078573
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.94968875
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.966435276
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.983058467
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		0.999792946
+actor x:		0
+actor y:		480
+actor direction:	up
+food x:		0
+food y:		360
+/-------------------------/
+time		1.01648668
+novo x	240
+novo y	480
+food_x_map 	3
+food_y_map 	5
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.016650421
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.033208447
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.050210165999999
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.066619067
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.083164762999999
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.099802214999999
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.116520658
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.133184968
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.149803819
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.166409821
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.183245314
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.199845518
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.216559919
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.23314374
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.249882723
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.266597635
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.283225658
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.299831033
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		240
+food y:		480
+/-------------------------/
+time		0.319757393
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.333267956
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.349862741
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.36652808
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.383112581
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.399819262
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.41642017
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.433100375
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.449719073
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.466590432
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.483275248
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.499817218
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.51642779
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.533073301
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.549859067
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.566450236
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.583014411
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.599749646
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.616390767
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.632977231
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.64973754
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.666298489
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.682943349
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.69967827
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.716451063
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.733014506
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.749801695
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.766423585
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.783007802
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.799685914
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.816424561
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.833002426
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.849791362
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.866378164
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.882966587
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.899741516
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.916512845
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.933051857
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.949807836
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.966424461
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.98306039
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.999708063
+actor x:		0
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		1.016313499
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.016821656000001
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.032916687
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.050220794000001
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.066687695000001
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.083265236000001
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.099967862
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.116769195
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.133277232
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.149984816
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.166598229
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.183227201
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.199990656
+actor x:		120
+actor y:		360
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.219444079
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.233295921
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.249889543
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.266648229
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.283216555
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.300058663
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.316659835
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.333244648
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.34987415
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.366599178
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.383221246
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.399929282
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.416573614
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.433205008
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.449396189
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.466153577
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.482593482
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.499309525
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.516077851
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.533289502
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.54987993
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.566457456
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.58312296
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.599863236
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.616547024
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.633140754
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.649868507
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.666505829
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.683147773
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.69989505
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.716513219
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.733129359
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.749765427
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.766570965
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.783135385
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.799863649
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.816602688
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.833135137
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.849747727
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.866442083
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.883097817
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.899802257
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.916435211
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.933063935
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.949854189
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.966350499
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.983042859
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.999868858
+actor x:		120
+actor y:		360
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		1.016474838
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.016611656
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.033239125
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.050019875
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.066529223
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.083262661999999
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.099930227
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.116535059
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.133198843
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.149831958
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.166524497
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.183221222
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.199953097
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.216560121
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.233165843
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.249868324
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.26659785
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.283249113
+actor x:		120
+actor y:		480
+actor direction:	down
+food x:		240
+food y:		480
+/-------------------------/
+time		0.302904572
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.31659809
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.333172301
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.349826544
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.366496545
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.38325142
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.39987134
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.416393832
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.433085829
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.449816673
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.466568167
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.482863475
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.499302034
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.515933729
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.5326963
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.54939561
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.566019445
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.583125344
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.599792945
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.616457492
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.633048168
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.649867153
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.666395445
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.683125055
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.699718871
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.716336626
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.73312116
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.749731278
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.766425565
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.783016159
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.799707609
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.816360363
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.832990559
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.849693142
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.866614564
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.882967855
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.899682101
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.916334883
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.933186126
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.949682697
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.966317475
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.982997613
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		0.999695512
+actor x:		120
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		480
+/-------------------------/
+time		1.016279156
+novo x	240
+novo y	360
+food_x_map 	3
+food_y_map 	4
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.016676477000001
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.033432919999999
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.049951912000001
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.066690740999999
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.083220127000001
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.099820623999999
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.116673885
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.133291891
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.149974417
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.166640442
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.183329124
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.199974947
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.216632635
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.233270844
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.249915734
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.266607415
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.283322249
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.299922444
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.316626308
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.333330997
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.349888242
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.366626536
+actor x:		240
+actor y:		480
+actor direction:	right
+food x:		240
+food y:		360
+/-------------------------/
+time		0.386041916
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.399925767
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.416732094
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.433297542
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.449890777
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.466579552
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.483412106
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.49985406
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.516607947
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.533282977
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.549893145
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.566565699
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.583253762
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.599881035
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.616538818
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.633339599
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.649881321
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.666939377
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.68339819
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.699993167
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.716744308
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.733186711
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.750104059
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.766505555
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.783194267
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.799837198
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.816520211
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.833250012
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.849841856
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.866543346
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.88319694
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.899849
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.91645661
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.933093716
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.949798403
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.966442624
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.983128033
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		0.9997576
+actor x:		240
+actor y:		480
+actor direction:	up
+food x:		240
+food y:		360
+/-------------------------/
+time		1.016593846
+novo x	0
+novo y	0
+food_x_map 	1
+food_y_map 	1
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.016610345
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.033275553999999
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.04992412
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.066581830000001
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.083218636000002
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.099797968000001
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.116576482
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.133223569
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.149872952
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.166545948
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.18323011
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.199916617
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.21646329
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.233238429
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.25019075
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.266477234
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.283138352
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.299781438
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.31648718
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.333062392
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.349735783
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.366466517
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.383114668
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.399596062
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.416359274
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.433007325
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.449744528
+actor x:		240
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.469243
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.483077943
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.499692478
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.516379019
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.533033101
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.549596809
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.566357271
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.582993196
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.599682897
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.616427352
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.633178517
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.649664198
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.666371771
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.682986198
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.699692217
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.716392076
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.733041303
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.749601091
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.76645539
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.783186871
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.799608441
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.81634663
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.8329802
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.849589916
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.866212685
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.882955262
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.899591884
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.916303482
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.933044255
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.949567976
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.966298903
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.982937791
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.999641548
+actor x:		240
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		1.016303454
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.016616322999997
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.033175222999997
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.049951631999999
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.066643240999998
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.083217960999999
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.099867236999998
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.116573018
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.133201627
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.149871994
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.166609549
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.18322931
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.199912868
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.216558243
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.233222832
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.249884716
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.266974395
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.283573279
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.300128731
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.316998522
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.333391045
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.349518295
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.366297403
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.382802261
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.399428935
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.416293541
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.433206478
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.449923707
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.46648069
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.483141828
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.499937209
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.516459321
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.533121563
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.549739734
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.566512363
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.583111006
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.599809846
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.616411622
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.632995418
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.649753291
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.666499383
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.68310742
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.699757235
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.716420989
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.733007822
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.749726216
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.766514359
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.783109286
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.799748443
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.816432326
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.833112351
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.849840436
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.865991707
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.882660148
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.899354483
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.91597251
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.932622658
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.949512822
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.966427297
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.982947613
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.999679821
+actor x:		120
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		1.016372007
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.016888926
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.033442431000001
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.050081657
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.066597463000001
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.083197343000002
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.100135668
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.116621888
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.133321251
+actor x:		0
+actor y:		360
+actor direction:	left
+food x:		0
+food y:		0
+/-------------------------/
+time		0.152755636
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.166698111
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.183576458
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.199920302
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.216581935
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.233293865
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.249995621
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.266588774
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.283386117
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.299910164
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.316620889
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.33344015
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.350042732
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.366693133
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.38327161
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.399951121
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.416611628
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.433168321
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.449848828
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.466567474
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.483327184
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.499848768
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.516541676
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.533222516
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.550184476
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.566587147
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.583210856
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.599763005
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.616483967
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.633100869
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.649788346
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.666444754
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.683077155
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.69980368
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.716657178
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.733159672
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.7497812
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.766459491
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.783141732
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.799829994
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.816459478
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.833166065
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.84987468
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.866587543
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.883123715
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.899640883
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.916410658
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.933073163
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.949797741
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.966380376
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.983072461
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.999783968
+actor x:		0
+actor y:		360
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		1.016396857
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.016647498000001
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.033335041000001
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.049972840000002
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.066681408000001
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.083298340000002
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.099937508
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.116594111
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.133286306
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.15000872
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.166547953
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.183189555
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.199898603
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.216579003
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.233295557
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.249958163
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.266520654
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.283231636
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.299920834
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.316528484
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.333276998
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.350010581
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.366516449
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.383292218
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.39994613
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.416572706
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.433364311
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.450043313
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.466584373
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.48316739
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.499873808
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.516626333
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.533344838
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.549857449
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.56664036
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.583176217
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.599919487
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.616482796
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.633093658
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.649889179
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.666366225
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.682690276
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.699852068
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.716694303
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.73310858
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.749753023
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.766434265
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.78311587
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.799702781
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.816361941
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.833149029
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.849871711
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.866360169
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.883184952
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.899854317
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.916301678
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.933016817
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.949761144
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.966331406
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.983000425
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.999684017
+actor x:		0
+actor y:		240
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		1.016454268
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.016609273
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.033277502000001
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.050044429
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.066580200000001
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.083193139999999
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.099825367000001
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.116528785
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.133223157
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.149862578
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.166574964
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.183223358
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.200226979
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.216684913
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.233319958
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.249987099
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.266539063
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.283228435
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.299952522
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.316582288
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.333261351
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.34978478
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.366550918
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.383778624
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.400301324
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.416959914
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.43342616
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.45027367
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.469623524
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.483526501
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.500263829
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.516858251
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.533570756
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.550137801
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.566499897
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.583173218
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.599721751
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.616331427
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.633088835
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.64979216
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.666463615
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.683123925
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.699797341
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.716351565
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.73309709
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.749775348
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.766389573
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.783054015
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.7997935
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.816371153
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.833192005
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.849698798
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.866026334
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.882671253
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.899817371
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.916364792
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.933164767
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.949823319
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.9662775
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.983083053
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		0.999694692
+actor x:		0
+actor y:		120
+actor direction:	up
+food x:		0
+food y:		0
+/-------------------------/
+time		1.016327971
+novo x	600
+novo y	480
+food_x_map 	6
+food_y_map 	5
+Error: main.lua:129: attempt to index a nil value
+stack traceback:
+	[love "boot.lua"]:345: in function '__index'
+	main.lua:129: in function 'foodNewPosition'
+	main.lua:107: in function 'newActorPosition'
+	main.lua:78: in function 'moveActor'
+	main.lua:34: in function 'update'
+	[love "callbacks.lua"]:162: in function <[love "callbacks.lua"]:144>
+	[C]: in function 'xpcall'
