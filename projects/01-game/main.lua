@@ -2,6 +2,7 @@ require("libs.tile-map")
 require("libs.others-functions")
 
 function love.load()
+    love.window.setTitle("snake game")
     love.window.setMode(600, 600, nil)
 
     windowWidth = love.graphics.getWidth()
@@ -46,12 +47,12 @@ end
 function love.draw()
 
     -- print mapOfTiles
-    for i, line in ipairs(mapOfTiles) do
-        for j, tile in ipairs(line) do
-            love.graphics.setColor(1, 1, 1)
-            love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height)
-        end
-    end
+    -- for i, line in ipairs(mapOfTiles) do
+    --     for j, tile in ipairs(line) do
+    --         love.graphics.setColor(1, 1, 1)
+    --         love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height)
+    --     end
+    -- end
 
     -- print actors
     for i, ac in ipairs(listActors) do
