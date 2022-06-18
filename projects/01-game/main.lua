@@ -8,7 +8,6 @@ function love.load()
     windowHeight = love.graphics.getWidth()
     tileWidth = windowWidth / 5
     tileHeight = windowHeight / 5
-    newFood = true
 
     -- Map
     mapOfTiles = createMap(tileWidth, tileHeight)
@@ -17,17 +16,14 @@ function love.load()
     actor = createTileMap("fill", 0, 0, tileWidth, tileHeight, "actor")
     actor.direction = "right"
 
-    -- Body Actor
-    newBody = false
-    bodyActor = {}
-    table.insert(bodyActor, actor)
+    -- SubActors
+    listActors = {}
+    table.insert(listActors, actor)
 
     -- Food
+    newFood = true
     food = createTileMap("fill", 0, 0, tileWidth, tileHeight, "food")
     foodNewPosition()
-
-    -- Actor Food positon
-    mapOfTiles[1][1] = actor
 
     time = 0
 end
@@ -37,21 +33,14 @@ function love.update(dt)
     time = time + dt
     if time >= 1 then
         moveActor(actor.direction)
-        if newFood then
-            foodNewPosition()
-        end
+        foodNewPosition()
 
-        print("time\t", time)
-        print("actor x:\t",actor.x)
-        print("actor y:\t",actor.y)
-        print("actor direction:",actor.direction)
-        print("food x:\t", food.x)
-        print("food y:\t", food.y)
-        print("random", math.random(0, 5))
-        print("tileWidth", tileWidth)
+        print("direction", actor.direction)
+        print("actor_x", actor.x)
+        print("actor_y", actor.y)
         print("/-------------------------/")
     end
-   
+
 end
 
 function love.draw()
@@ -59,23 +48,23 @@ function love.draw()
     -- print mapOfTiles
     for i, line in ipairs(mapOfTiles) do
         for j, tile in ipairs(line) do
-            if tile.type == "tile" then
-                -- print("tile", i, j)
-                love.graphics.setColor(1, 1, 1)
-                love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height) 
-            elseif tile.type == "actor" then
-                -- draw actor
-                -- print("actor", i, j)
-                love.graphics.setColor(1, 1, 1)
-                love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height) 
-            else 
-                -- draw food
-                -- print("food", i, j)
-                love.graphics.setColor(1, 0, 0)
-                love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height) 
-            end   
+            love.graphics.setColor(1, 1, 1)
+            love.graphics.rectangle(tile.mode, tile.x, tile.y, tile.width, tile.height)
         end
     end
+
+    -- print actors
+    for i, ac in ipairs(listActors) do
+        -- print actor
+        love.graphics.setColor(1, 1, 1)
+        love.graphics.rectangle(ac.mode, ac.x, ac.y, ac.width, ac.height)
+    end
+
+    -- print food
+    love.graphics.setColor(1, 0, 0)
+    love.graphics.rectangle(food.mode, food.x, food.y, food.width, food.height)
+
+    
 
 end
 
@@ -86,7 +75,7 @@ function love.keypressed(key)
 end
 
 function moveActor(direction)
-    
+
     if direction == "right" then
         newActorPosition("x", 1)
     elseif direction == "left" then
@@ -100,99 +89,115 @@ function moveActor(direction)
 end
 
 function newActorPosition(axis, direction)
-    local actor_x_position = (actor.x / tileWidth) + 1
-    local actor_y_position = (actor.y / tileHeight) + 1
     local actor_x = actor.x
     local actor_y = actor.y
-    local new_tile = createTileMap("line", actor.x, actor.y, tileWidth, tileHeight, "tile")
     time = 0
 
     if axis == "x" then
-        local actor_map_new_position = actor_x_position + 1 * direction
-        local actor_new_position = actor.x + tileWidth * direction
-        if actor_new_position < windowWidth and actor_new_position >= 0 then
-            
-            actor.x = actor_new_position
-            if mapOfTiles[actor_map_new_position][actor_y_position] == food then
-                newBodyActor(actor_x, actor_y, actor_x_position, actor_y_position)
-                newFood = true
-            else
-                mapOfTiles[actor_x_position][actor_y_position] = new_tile
-            end
-            mapOfTiles[actor_map_new_position][actor_y_position] = actor
-            moveBodyRecursive(actor_x, actor_y, 2)
-        else 
-            print("game over")
-            love.load()
-        end
-        return
-    elseif axis == "y" then
-        local actor_map_new_position = actor_y_position + 1 * direction
-        local actor_new_position = actor.y + tileHeight * direction
-        if actor_new_position < windowWidth and actor_new_position >= 0  then
+        local new_actor_x = actor_x + tileWidth * direction
 
-            actor.y = actor_new_position
-            if mapOfTiles[actor_x_position][actor_map_new_position] == food then
-                newBodyActor(actor_x, actor_y, actor_x_position, actor_y_position)
-                newFood = true
-            else
-                mapOfTiles[actor_x_position][actor_y_position] = new_tile
+        -- se estiver dentro da tela
+        if new_actor_x >= 0 and new_actor_x < windowWidth then
+            actor.x = new_actor_x
+
+            eatFood()
+
+            if newFood then
+                newSubActor()
             end
-            mapOfTiles[actor_x_position][actor_map_new_position] = actor
-            moveBodyRecursive(actor_x, actor_y, 2)
+
+            subActorsPosition(actor_x, actor_y, 2)
+            if actorBitHimself(new_actor_x, actor_y) then
+                gameOver()
+            end
+
         else
-            print("game over")
-            love.load()
+            gameOver()
         end
-        return
+
+    elseif axis == "y" then
+        local new_actor_y = actor_y + tileWidth * direction
+
+        -- se estiver dentro da tela
+        if new_actor_y >= 0 and new_actor_y < windowHeight then
+            actor.y = new_actor_y
+            
+            eatFood()
+            if newFood then
+                newSubActor()
+            end
+
+            subActorsPosition(actor_x, actor_y, 2)
+            if actorBitHimself(actor_x, new_actor_y) then
+                gameOver()
+            end
+
+        else
+            gameOver()
+        end
+
+    end
+end
+
+function gameOver()
+    print("game over")
+    love.load()
+end
+
+function eatFood()
+    if food.x == actor.x and food.y == actor.y then
+        newFood = true
     end
 end
 
 function foodNewPosition()
-    while newFood do
-        local food_x_map = math.random(1, 5)
-        local food_y_map = math.random(1, 5)
-        local food_x = (food_x_map - 1) * tileWidth
-        local food_y = (food_y_map - 1) * tileHeight
 
-        -- if (food_x ~= actor.x or food_y ~= actor.y) and mapOfTiles[food_x_map][food_y_map].type ~= "actor" then
-        if mapOfTiles[food_x_map][food_y_map].type ~= "actor" then
+    while newFood do
+        print("nova comida")
+        local food_x = math.random(0, 4) * tileWidth
+        local food_y = math.random(0, 4) * tileHeight
+        local valid_position = true
+
+        for i, ac in ipairs(listActors) do
+            if ac.x ==  food_x and ac.y == food_y then
+                valid_position = false
+                break
+            end
+        end
+
+        if valid_position then
             food.x = food_x
             food.y = food_y
-            mapOfTiles[food_x_map][food_y_map] = food
             newFood = false
         end
     end
+
 end
 
-function newBodyActor(x, y, pos_x, pos_y)
-    local newBody = createTileMap("fill", 0, 0, tileWidth, tileHeight, "actor")
-    table.insert(bodyActor, newBody)
+function newSubActor()
+    local new_actor = createTileMap("fill", 0, 0, tileWidth, tileHeight, "actor")
+    table.insert(listActors, new_actor)
 end
 
-function moveBodyRecursive(pos_x, pos_y, pos)
-    if tablelength(bodyActor) > 1 and pos <= tablelength(bodyActor) then
-        local local_x = bodyActor[pos].x
-        local local_y = bodyActor[pos].y
-        local local_x_pos = pos_x / tileWidth + 1
-        local local_y_pos = pos_y / tileWidth + 1
-        local new_pos = pos + 1
-        bodyActor[pos].x = pos_x
-        bodyActor[pos].y = pos_y
-        mapOfTiles[local_x_pos][local_y_pos] = bodyActor[pos]
-        moveBodyRecursive(local_x, local_y, new_pos)
-
+function subActorsPosition(newPosX, newPosY, actorPosition)
+    if tablelength(listActors) ~= 1 and tablelength(listActors) >= actorPosition then
+        local old_pos_x = listActors[actorPosition].x
+        local old_pos_y = listActors[actorPosition].y
+        local new_actor_position = actorPosition + 1
+        listActors[actorPosition].x = newPosX
+        listActors[actorPosition].y = newPosY
+        subActorsPosition(old_pos_x, old_pos_y, new_actor_position)
     end
-    
-    if tablelength(bodyActor) == pos then
-        if newBody then
-            local local_x_pos = pos_x / tileWidth + 1
-            local local_y_pos = pos_y / tileWidth + 1
-            mapOfTiles[local_x_pos][local_y_pos] = createTileMap("line", pos_x, pos_y, tileWidth, tileHeight, "tile")
-        else
-            newBody = true    
+end
+
+function actorBitHimself(posPox, posY)
+    if tablelength(listActors) > 1 then
+        for i=2, tablelength(listActors), 1 do
+            if actor.x == listActors[i].x and actor.y == listActors[i].y then
+                return true
+            end
         end
     end
+   
+    return false
 end
-
-
