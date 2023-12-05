@@ -13,8 +13,7 @@ function love.load()
     love.window.setMode(600, 600, nil)
 
     -- others
-    mainActor = loadActor("fill", 0, 540, 60, 60, "main")
-    actorDirection = "right"
+    mainActor = loadActor("fill", 0, 540, 60, 60, 240, 3, "main")
 
     listEnemy = {}
     listBullet = {}
@@ -23,16 +22,15 @@ function love.load()
     bulletTime = 0
     points = 0
     level = 1
-    enemySpeed = 75
-    life = 3
+    enemySpeed = 0
 end
 
 function love.update(dt)
     -- actor
     if love.keyboard.isDown("left") then
-        moveActor("left", dt)
+        moveActor(mainActor, -1, dt)
     elseif love.keyboard.isDown("right") then
-        moveActor("right", dt)
+        moveActor(mainActor, 1, dt)
     end
 
     -- enemy
@@ -51,7 +49,7 @@ function love.update(dt)
     end
 
     destroyEnemy()
-    actorDeath()
+    actorDeath(mainActor, listEnemy)
 
     -- log
     time = time + dt
@@ -64,7 +62,7 @@ function love.update(dt)
         print("points", points)
         print("level", level)
         print("enemySpeed", enemySpeed)
-        print("life", life)
+        print("life", mainActor.life)
         print("listBullet", #listBullet)
         for i, v in ipairs(listEnemy) do
             print(i.."-enemy x", v.x)
@@ -103,32 +101,15 @@ function love.keypressed(key, scancode, isrepeat)
     end
 end
 
-function moveActor(direction, dt)
-    if direction == "left"  then
-        mainActor.x = mainActor.x - 240 * dt
-    elseif direction == "right" then
-        mainActor.x = mainActor.x + 240 * dt
-    end 
-    actorCollision(mainActor)
-end
-
 function moveEnemy(enemy, dt) 
-    enemy.y = enemy.y + enemySpeed * dt
-end
-
-function actorCollision(mc)
-    if mc.x < 0 then
-        mc.x = 0
-    elseif mc.x > 540 then
-        mc.x = 540
-    end
+    enemy.y = enemy.y + (enemy.speed + enemySpeed)  * dt
 end
 
 function bulletCollision(index, enemy)
     for i, v in ipairs(listBullet) do
         if v.x > enemy.x and v.x < enemy.x + 60 and v.y <= enemy.y + 60 or 
         v.x + 10 > enemy.x and v.x + 10 < enemy.x + 60 and v.y <= enemy.y + 60 then
-            addPoint()
+            points, enemySpeed = addPoint(points, enemySpeed)
             table.remove(listEnemy, index)
             table.remove(listBullet, i)
         end
@@ -138,7 +119,7 @@ end
 function createEnemy()
     if #listEnemy < level then
         newX = (love.math.random(1, 10) * 60) - 60
-        enemy = loadActor("fill", newX, 0, 60, 60, "enemy")
+        enemy = loadActor("fill", newX, 0, 60, 60, 75, 3, "enemy")
         table.insert(listEnemy, enemy)
     end
 end
@@ -146,33 +127,8 @@ end
 function destroyEnemy()
     for i, v in ipairs(listEnemy) do
         if v.y >= 600 then
-            life = life -1
+            mainActor.life = mainActor.life -1
             table.remove(listEnemy, i)
         end
-    end
-end
-
-function actorDeath()
-    if life == 0 then
-        love.load()
-    else
-        for i, v in ipairs(listEnemy) do
-            if (mainActor.x > v.x and mainActor.x < v.x + 60 and mainActor.y <= v.y + 60) or 
-            (mainActor.x +60 > v.x and mainActor.x +60 < v.x + 60 and mainActor.y <= v.y + 60) then
-                love.load()
-            end
-        end
-    end
-end
-
-function addPoint() 
-    points = points + 1
-    updateLevel(points)
-end
-
-function updateLevel(points) 
-    if points % 10 == 0 then
-        level = level + 1
-        enemySpeed = enemySpeed + 25
     end
 end
