@@ -33,29 +33,16 @@ function love.update(dt)
         moveActor(mainActor, 1, dt)
     end
 
-    -- enemy
-    for i, v in ipairs(listEnemy) do
-        moveEnemy(v, dt)
-        bulletCollision(i, v, listBullet)
-    end
-
-    -- bullet
-    for i, v in ipairs(listBullet) do
-        v.y = v.y - 1000 * dt
-        -- destroy
-        if v.y <= 0 then
-            table.remove(listBullet, i)
-        end
-    end
-
-    destroyEnemy()
+    enemyBulletCollision(listEnemy, listBullet, dt)
+    moveBullet(listBullet, dt)
+    destroyEnemy(listEnemy, mainActor)
     actorDeath(mainActor, listEnemy)
 
     -- log
     time = time + dt
     bulletTime = bulletTime + dt
     if time >= 1 then
-        createEnemy()
+        createEnemy(listEnemy)
 
         time = 0
         print("/--------------/")
@@ -92,43 +79,6 @@ end
 
 -- other functions
 
-function love.keypressed(key, scancode, isrepeat)
-    if key == "space" and bulletTime >= 0.1 then
-        bulletTime = 0
-        bulletX = mainActor.x + 25
-        bullet = createBullet("fill", bulletX, 540, 10, 10)
-        table.insert(listBullet, bullet)
-    end
-end
-
-function moveEnemy(enemy, dt) 
-    enemy.y = enemy.y + (enemy.speed + enemySpeed)  * dt
-end
-
-function bulletCollision(index, enemy)
-    for i, v in ipairs(listBullet) do
-        if v.x > enemy.x and v.x < enemy.x + 60 and v.y <= enemy.y + 60 or 
-        v.x + 10 > enemy.x and v.x + 10 < enemy.x + 60 and v.y <= enemy.y + 60 then
-            points, enemySpeed = addPoint(points, enemySpeed)
-            table.remove(listEnemy, index)
-            table.remove(listBullet, i)
-        end
-    end
-end
-
-function createEnemy()
-    if #listEnemy < level then
-        newX = (love.math.random(1, 10) * 60) - 60
-        enemy = loadActor("fill", newX, 0, 60, 60, 75, 3, "enemy")
-        table.insert(listEnemy, enemy)
-    end
-end
-
-function destroyEnemy()
-    for i, v in ipairs(listEnemy) do
-        if v.y >= 600 then
-            mainActor.life = mainActor.life -1
-            table.remove(listEnemy, i)
-        end
-    end
+function love.keypressed(key)
+    shoot(key, bulletTime, mainActor, listBullet)
 end
