@@ -26,13 +26,7 @@ function love.load()
 end
 
 function love.update(dt)
-    -- actor
-    if love.keyboard.isDown("left") then
-        moveActor(mainActor, -1, dt)
-    elseif love.keyboard.isDown("right") then
-        moveActor(mainActor, 1, dt)
-    end
-
+    actorDirection(mainActor, dt)
     enemyBulletCollision(listEnemy, listBullet, dt)
     moveBullet(listBullet, dt)
     destroyEnemy(listEnemy, mainActor)
@@ -59,22 +53,9 @@ function love.update(dt)
 end
 
 function love.draw()
-    -- actor
-    love.graphics.setColor(green())
-    love.graphics.rectangle(mainActor.mode, mainActor.x, mainActor.y, mainActor.width, mainActor.height)
-
-     -- bullets
-     for i, v in ipairs(listBullet) do
-        love.graphics.setColor(white())
-        love.graphics.rectangle(v.mode, v.x, v.y, v.width, v.height, 1)
-    end
-
-    -- enemys
-    for i, v in ipairs(listEnemy) do
-        love.graphics.setColor(red())
-        love.graphics.rectangle(v.mode, v.x, v.y, v.width, v.height)
-    end
-
+    drawActor(mainActor, green)
+    drawBullets(listBullet, white)
+    drawEnemys(listEnemy, red)
 end
 
 -- other functions

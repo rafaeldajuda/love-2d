@@ -9,6 +9,13 @@ function createBullet(mode, x, y, height, width)
     return bullet
 end
 
+function drawBullets(listBullet, white)
+    for i, v in ipairs(listBullet) do
+        love.graphics.setColor(white())
+        love.graphics.rectangle(v.mode, v.x, v.y, v.width, v.height, 1)
+    end
+end
+
 function addPoint(points, enemySpeed) 
     points = points + 1
     enemySpeed = updateLevel(points, enemySpeed)

@@ -12,6 +12,26 @@ function loadActor(mode, x, y, height, width, speed, life, type)
     return actor
 end
 
+function actorDirection(mainActor, dt)
+    if love.keyboard.isDown("left") then
+        moveActor(mainActor, -1, dt)
+    elseif love.keyboard.isDown("right") then
+        moveActor(mainActor, 1, dt)
+    end
+end
+
+function drawActor(mainActor, green)
+    love.graphics.setColor(green())
+    love.graphics.rectangle(mainActor.mode, mainActor.x, mainActor.y, mainActor.width, mainActor.height)
+end
+
+function drawEnemys(listEnemy, red)
+    for i, v in ipairs(listEnemy) do
+        love.graphics.setColor(red())
+        love.graphics.rectangle(v.mode, v.x, v.y, v.width, v.height)
+    end
+end
+
 function moveActor(actor, direction, dt)
     actor.x = actor.x + (direction*actor.speed) * dt
     actorCollision(actor)
