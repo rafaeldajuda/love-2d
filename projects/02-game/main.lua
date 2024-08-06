@@ -11,6 +11,8 @@ function love.load()
     -- window
     love.window.setTitle("meteor shoot")
     love.window.setMode(600, 600, nil)
+    background_1 = love.graphics.newImage("img/background/4.png")
+    love.graphics.draw(background_1, 0, 0)
 
     -- others
     mainActor = loadActor("fill", 0, 540, 60, 60, 240, 3, "main")
@@ -53,6 +55,9 @@ function love.update(dt)
 end
 
 function love.draw()
+    -- love.graphics.draw(background_1, 0, 0)
+   
+
     drawActor(mainActor, green)
     drawBullets(listBullet, white)
     drawEnemys(listEnemy, red)

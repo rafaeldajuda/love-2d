@@ -61,8 +61,8 @@ function actorDeath(mainActor, listEnemy)
         love.load()
     else
         for i, v in ipairs(listEnemy) do
-            if (mainActor.x > v.x and mainActor.x < v.x + 60 and mainActor.y <= v.y + 60) or 
-            (mainActor.x + 60 > v.x and mainActor.x + 60 < v.x + 60 and mainActor.y <= v.y + 60) then
+            if (mainActor.x >= v.x and mainActor.x <= v.x + 60 and mainActor.y <= v.y + 60) or 
+            (mainActor.x + 60 >= v.x and mainActor.x + 60 <= v.x + 60 and mainActor.y <= v.y + 60) then
                 love.load()
             end
         end
